@@ -7,6 +7,9 @@ with this software. You can maintain your records in
 
 a group. You can login the group or create a new group.
 
+Note: Run the program in the directory of the source code of
+this program
+
 You can install the software by typing 
 
 
